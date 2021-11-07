@@ -1837,6 +1837,10 @@ Jeśli jednak nie chcesz tego robić, możesz skorzystać z naszych bezpłatnych
     <string name="formula_editor_sensor_second_face_size">rozmiar drugiej twarzy</string>
     <string name="formula_editor_sensor_second_face_x_position">pozycja x drugiej twarzy</string>
     <string name="formula_editor_sensor_second_face_y_position">pozycja y drugiej twarzy</string>
+    <string name="formula_editor_sensor_head_top_x">góra głowy x</string>
+    <string name="formula_editor_sensor_head_top_y">góra głowy y</string>
+    <string name="formula_editor_sensor_neck_x">szyja x</string>
+    <string name="formula_editor_sensor_neck_y">szyja y</string>
     <string name="formula_editor_sensor_nose_x">nos x</string>
     <string name="formula_editor_sensor_nose_y">nos y</string>
     <string name="formula_editor_sensor_left_eye_inner_x">lewe oko wewnętrzne x</string>

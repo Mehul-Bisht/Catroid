@@ -1784,6 +1784,10 @@ precisa de acesso de leitura e escrita a ele. Você sempre pode alterar as permi
     <string name="formula_editor_sensor_second_face_size">tamanho do segundo rosto</string>
     <string name="formula_editor_sensor_second_face_x_position">posição x do segundo rosto</string>
     <string name="formula_editor_sensor_second_face_y_position">posição y do segundo rosto</string>
+    <string name="formula_editor_sensor_head_top_x">head top x</string>
+    <string name="formula_editor_sensor_head_top_y">head top y</string>
+    <string name="formula_editor_sensor_neck_x">neck x</string>
+    <string name="formula_editor_sensor_neck_y">neck y</string>
     <string name="formula_editor_sensor_nose_x">nariz x</string>
     <string name="formula_editor_sensor_nose_y">nariz y</string>
     <string name="formula_editor_sensor_left_eye_inner_x">olho esquerdo dentro x</string>

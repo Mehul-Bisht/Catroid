@@ -1722,6 +1722,10 @@ dash(-), 下划线 (_), 和 句号(.).</string>
     <string name="formula_editor_sensor_second_face_size">第二面大小</string>
     <string name="formula_editor_sensor_second_face_x_position">第二面 x 位置</string>
     <string name="formula_editor_sensor_second_face_y_position">第二面 y 位置</string>
+    <string name="formula_editor_sensor_head_top_x">head top x</string>
+    <string name="formula_editor_sensor_head_top_y">head top y</string>
+    <string name="formula_editor_sensor_neck_x">neck x</string>
+    <string name="formula_editor_sensor_neck_y">neck y</string>
     <string name="formula_editor_sensor_nose_x">鼻子x</string>
     <string name="formula_editor_sensor_nose_y">鼻子y</string>
     <string name="formula_editor_sensor_left_eye_inner_x">左眼内 x</string>

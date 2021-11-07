@@ -1742,6 +1742,10 @@ bekleyin</string>
     <string name="formula_editor_sensor_second_face_size">ikinci yüz boyutu</string>
     <string name="formula_editor_sensor_second_face_x_position">ikinci yüz x konumu</string>
     <string name="formula_editor_sensor_second_face_y_position">ikinci yüz y konumu</string>
+    <string name="formula_editor_sensor_head_top_x">head top x</string>
+    <string name="formula_editor_sensor_head_top_y">head top y</string>
+    <string name="formula_editor_sensor_neck_x">neck x</string>
+    <string name="formula_editor_sensor_neck_y">neck y</string>
     <string name="formula_editor_sensor_nose_x">burun x</string>
     <string name="formula_editor_sensor_nose_y">burun y</string>
     <string name="formula_editor_sensor_left_eye_inner_x">sol göz iç x</string>

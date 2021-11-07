@@ -1877,6 +1877,10 @@
     <string name="formula_editor_sensor_second_face_size">размер второго лица</string>
     <string name="formula_editor_sensor_second_face_x_position">позиция второй по оси x</string>
     <string name="formula_editor_sensor_second_face_y_position">позиция второго лица y</string>
+    <string name="formula_editor_sensor_head_top_x">head top x</string>
+    <string name="formula_editor_sensor_head_top_y">head top y</string>
+    <string name="formula_editor_sensor_neck_x">neck x</string>
+    <string name="formula_editor_sensor_neck_y">neck y</string>
     <string name="formula_editor_sensor_nose_x">нос x</string>
     <string name="formula_editor_sensor_nose_y">нос y</string>
     <string name="formula_editor_sensor_left_eye_inner_x">левый глаз внутренний x</string>

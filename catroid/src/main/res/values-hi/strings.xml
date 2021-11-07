@@ -1788,6 +1788,10 @@
     <string name="formula_editor_sensor_second_face_size">दूसरा चेहरा आकार</string>
     <string name="formula_editor_sensor_second_face_x_position">दूसरा चेहरा एक्स स्थिति</string>
     <string name="formula_editor_sensor_second_face_y_position">दूसरा चेहरा y स्थिति</string>
+    <string name="formula_editor_sensor_head_top_x">head top x</string>
+    <string name="formula_editor_sensor_head_top_y">head top y</string>
+    <string name="formula_editor_sensor_neck_x">neck x</string>
+    <string name="formula_editor_sensor_neck_y">neck y</string>
     <string name="formula_editor_sensor_nose_x">नाक x</string>
     <string name="formula_editor_sensor_nose_y">सुगंधित</string>
     <string name="formula_editor_sensor_left_eye_inner_x">बाईं आंख भीतरी x</string>

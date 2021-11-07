@@ -1751,6 +1751,10 @@
     <string name="formula_editor_sensor_second_face_size">দ্বিতীয় মুখের আকার</string>
     <string name="formula_editor_sensor_second_face_x_position">দ্বিতীয় মুখ এক্স অবস্থান</string>
     <string name="formula_editor_sensor_second_face_y_position">দ্বিতীয় মুখ y অবস্থান</string>
+    <string name="formula_editor_sensor_head_top_x">head top x</string>
+    <string name="formula_editor_sensor_head_top_y">head top y</string>
+    <string name="formula_editor_sensor_neck_x">neck x</string>
+    <string name="formula_editor_sensor_neck_y">neck y</string>
     <string name="formula_editor_sensor_nose_x">নাক x</string>
     <string name="formula_editor_sensor_nose_y">নাক y</string>
     <string name="formula_editor_sensor_left_eye_inner_x">বাম চোখের ভিতরের x</string>

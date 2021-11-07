@@ -1743,6 +1743,10 @@
     <string name="formula_editor_sensor_second_face_size">第二個臉型</string>
     <string name="formula_editor_sensor_second_face_x_position">第二面 x 位置</string>
     <string name="formula_editor_sensor_second_face_y_position">第二面y位置</string>
+    <string name="formula_editor_sensor_head_top_x">head top x</string>
+    <string name="formula_editor_sensor_head_top_y">head top y</string>
+    <string name="formula_editor_sensor_neck_x">neck x</string>
+    <string name="formula_editor_sensor_neck_y">neck y</string>
     <string name="formula_editor_sensor_nose_x">鼻子 x</string>
     <string name="formula_editor_sensor_nose_y">鼻子 y</string>
     <string name="formula_editor_sensor_left_eye_inner_x">左眼內 x</string>

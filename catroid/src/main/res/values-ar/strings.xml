@@ -1957,6 +1957,10 @@
     <string name="formula_editor_sensor_second_face_size">حجم الوجه الثاني</string>
     <string name="formula_editor_sensor_second_face_x_position">الوجه الثاني X الموضع</string>
     <string name="formula_editor_sensor_second_face_y_position">موضع الوجه الثاني ص</string>
+    <string name="formula_editor_sensor_head_top_x">head top x</string>
+    <string name="formula_editor_sensor_head_top_y">head top y</string>
+    <string name="formula_editor_sensor_neck_x">neck x</string>
+    <string name="formula_editor_sensor_neck_y">neck y</string>
     <string name="formula_editor_sensor_nose_x">أنف x</string>
     <string name="formula_editor_sensor_nose_y">الأنف ذ</string>
     <string name="formula_editor_sensor_left_eye_inner_x">العين اليسرى الداخلية x</string>

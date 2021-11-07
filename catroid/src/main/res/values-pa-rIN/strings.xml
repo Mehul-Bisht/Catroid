@@ -1790,6 +1790,10 @@
     <string name="formula_editor_sensor_second_face_size">ਦੂਜਾ ਚਿਹਰਾ ਅਕਾਰ</string>
     <string name="formula_editor_sensor_second_face_x_position">ਦੂਜਾ ਚਿਹਰਾ x ਸਥਿਤੀ</string>
     <string name="formula_editor_sensor_second_face_y_position">ਦੂਜਾ ਚਿਹਰਾ y ਸਥਿਤੀ</string>
+    <string name="formula_editor_sensor_head_top_x">head top x</string>
+    <string name="formula_editor_sensor_head_top_y">head top y</string>
+    <string name="formula_editor_sensor_neck_x">neck x</string>
+    <string name="formula_editor_sensor_neck_y">neck y</string>
     <string name="formula_editor_sensor_nose_x">ਨੱਕ ਐਕਸ</string>
     <string name="formula_editor_sensor_nose_y">ਨੱਕ y</string>
     <string name="formula_editor_sensor_left_eye_inner_x">ਖੱਬੀ ਅੱਖ ਦਾ ਅੰਦਰੂਨੀ ਐਕਸ</string>

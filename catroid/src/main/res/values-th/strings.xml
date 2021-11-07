@@ -1722,6 +1722,10 @@
     <string name="formula_editor_sensor_second_face_size">ขนาดใบหน้าที่สอง</string>
     <string name="formula_editor_sensor_second_face_x_position">ใบหน้าที่สอง x ตำแหน่ง</string>
     <string name="formula_editor_sensor_second_face_y_position">ใบหน้าที่สอง y ตำแหน่ง</string>
+    <string name="formula_editor_sensor_head_top_x">หัวด้านบน x</string>
+    <string name="formula_editor_sensor_head_top_y">หัวด้านบน y</string>
+    <string name="formula_editor_sensor_neck_x">คอ x</string>
+    <string name="formula_editor_sensor_neck_y">คอ y</string>
     <string name="formula_editor_sensor_nose_x">จมูก x</string>
     <string name="formula_editor_sensor_nose_y">จมูก y</string>
     <string name="formula_editor_sensor_left_eye_inner_x">ตาซ้ายด้านใน x</string>

@@ -1741,6 +1741,10 @@ membutuhkan akses baca dan tulis untuk itu. Anda selalu dapat mengubah izin mela
     <string name="formula_editor_sensor_second_face_size">ukuran wajah kedua</string>
     <string name="formula_editor_sensor_second_face_x_position">posisi x wajah kedua</string>
     <string name="formula_editor_sensor_second_face_y_position">wajah kedua posisi y</string>
+    <string name="formula_editor_sensor_head_top_x">head top x</string>
+    <string name="formula_editor_sensor_head_top_y">head top y</string>
+    <string name="formula_editor_sensor_neck_x">neck x</string>
+    <string name="formula_editor_sensor_neck_y">neck y</string>
     <string name="formula_editor_sensor_nose_x">hidung x</string>
     <string name="formula_editor_sensor_nose_y">hidung y</string>
     <string name="formula_editor_sensor_left_eye_inner_x">mata kiri bagian dalam x</string>

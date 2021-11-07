@@ -537,7 +537,7 @@
     <string name="no_projects_selected">No projects selected for import</string>
     <string name="error_no_files_found">No project files found.</string>
     <!-- ProjectOptionsFragment -->
-    <string name="project_options_description">Description</string>
+    <string name="project_options_description">تفصیل</string>
     <string name="project_options_notes_and_credits">Credits</string>
     <string name="project_options_tags">Tags</string>
     <string name="project_options_aspect_ratio">Keep original aspect ratio</string>
@@ -681,7 +681,7 @@
     <string name="brick_context_dialog_delete_brick">خښته ړنګ کړئ</string>
     <string name="brick_context_dialog_copy_brick">کاپي خښته</string>
     <string name="brick_context_dialog_copy_script">Copy script</string>
-    <string name="brick_context_dialog_formula_edit_brick">Edit formula</string>
+    <string name="brick_context_dialog_formula_edit_brick">فورمول ترمیم کړئ</string>
     <string name="brick_context_dialog_delete_script">سکریپټ ړنګ کړئ</string>
     <string name="brick_context_dialog_delete_definition">Delete this definition</string>
     <string name="brick_context_dialog_comment_in">Enable brick</string>
@@ -773,7 +773,7 @@
         issues.</string>
     <!--  -->
     <!-- Stage menu dialog -->
-    <string name="stage_dialog_back">Back</string>
+    <string name="stage_dialog_back">بیرته</string>
     <string name="stage_dialog_resume">Resume</string>
     <string name="stage_dialog_restart">Restart</string>
     <string name="stage_dialog_axes_on">Axes on</string>
@@ -825,7 +825,7 @@
     <string name="brick_user_defined_script_define">Define</string>
     <string name="brick_user_defined_script_as">as</string>
     <string name="brick_user_defined_list_empty">Tap \"+\" to add your own new bricks.</string>
-    <string name="brick_report">Report</string>
+    <string name="brick_report">راپور</string>
     <!--  -->
     <!-- Motion bricks -->
     <string name="brick_place_at">"Place at"</string>
@@ -896,15 +896,15 @@
     <string name="brick_change_brightness">"Change brightness"</string>
     <string name="brick_set_color">"Set color"</string>
     <string name="brick_change_color">"Change color"</string>
-    <string name="by_label">by</string>
+    <string name="by_label">لخوا</string>
     <string name="to_label">to</string>
     <string name="brick_clear_graphic_effect">د ګرافیک اغیزې پاک کړئ</string>
     <string name="brick_next_look">Next look</string>
     <string name="brick_next_background">Next background</string>
     <string name="brick_previous_look">Previous look</string>
     <string name="brick_previous_background">Previous background</string>
-    <string name="brick_edit_look">Edit look</string>
-    <string name="brick_edit_background">Edit background</string>
+    <string name="brick_edit_look">نظر ترمیم کړئ</string>
+    <string name="brick_edit_background">شالید سمول</string>
     <string name="brick_delete_look">Delete look</string>
     <string name="brick_delete_background">Delete background</string>
     <string name="brick_flash">Turn flashlight</string>
@@ -982,7 +982,7 @@
     <string name="brick_when_started">When scene starts</string>
     <string name="brick_when">When tapped</string>
     <string name="brick_when_condition_when">When</string>
-    <string name="brick_when_becomes_true">becomes true</string>
+    <string name="brick_when_becomes_true">رښتیا کیږي</string>
     <string name="brick_wait">Wait</string>
     <string name="brick_wait_until">Wait until</string>
     <string name="brick_wait_until_second_part">is true</string>
@@ -1192,7 +1192,7 @@
     <string name="default_cast_project_sprites_bird_name_wing_down_left">Bird Wings down left</string>
     <string name="default_cast_project_sprites_tweet_1">Tweet1</string>
     <string name="default_cast_project_sprites_tweet_2">Tweet2</string>
-    <string name="default_cast_project_var_direction">direction</string>
+    <string name="default_cast_project_var_direction">سمت</string>
     <string name="default_cast_project_name">My first Chromecast project</string>
     <!-- Default Drone Values -->
     <string name="drone_brick_set_text">متن</string>
@@ -1319,7 +1319,7 @@ needs read and write access to it. You can always change permissions through you
     <string name="nxt_motor_speed_to">to</string>
     <string name="nxt_motor_speed">speed</string>
     <string name="nxt_brick_motor_turn_angle">Turn NXT motor</string>
-    <string name="nxt_motor_move_by">by</string>
+    <string name="nxt_motor_move_by">لخوا</string>
     <string name="nxt_motor_stop">Stop NXT motor</string>
     <string name="nxt_play_tone">Play NXT tone</string>
     <string name="nxt_tone_duration">Duration</string>
@@ -1392,7 +1392,7 @@ needs read and write access to it. You can always change permissions through you
     <string name="ev3_motor_stop">Stop EV3 motor</string>
     <string name="ev3_motor_move">Set EV3 motor</string>
     <string name="ev3_brick_motor_turn_angle">Turn EV3 motor</string>
-    <string name="ev3_motor_move_by">by</string>
+    <string name="ev3_motor_move_by">لخوا</string>
     <string name="ev3_set_led_status">Set EV3 LED status</string>
     <string name="ev3_led_status_off">Off</string>
     <string name="ev3_led_status_green">شین</string>
@@ -1513,12 +1513,12 @@ needs read and write access to it. You can always change permissions through you
     <!-- Phiro motor strings -->
     <string name="phiro_motor_left">Left</string>
     <string name="phiro_motor_right">Right</string>
-    <string name="phiro_motor_both">Both</string>
+    <string name="phiro_motor_both">دواړه</string>
     <!--  -->
     <!-- Phiro light strings -->
     <string name="phiro_light_left">Left</string>
     <string name="phiro_light_right">Right</string>
-    <string name="phiro_light_both">Both</string>
+    <string name="phiro_light_both">دواړه</string>
     <!--  -->
     <!-- Phiro sensor strings -->
     <string name="phiro_sensor_front_left">Front Left Sensor</string>
@@ -1530,7 +1530,7 @@ needs read and write access to it. You can always change permissions through you
     <!--  -->
     <string name="color_red">red</string>
     <string name="color_green">green</string>
-    <string name="color_blue">blue</string>
+    <string name="color_blue">آبي</string>
     <!-- -->
     <!-- Formula editor strings -->
     <string name="formula_editor_data">ډاټا</string>
@@ -1725,8 +1725,8 @@ needs read and write access to it. You can always change permissions through you
     <string name="formula_editor_object_look_number">look number</string>
     <string name="formula_editor_object_look_name">look name</string>
     <string name="formula_editor_object_number_of_looks">number of looks</string>
-    <string name="formula_editor_object_background_number">background number</string>
-    <string name="formula_editor_object_background_name">background name</string>
+    <string name="formula_editor_object_background_number">د شاليد شمېره</string>
+    <string name="formula_editor_object_background_name">د شاليد نوم</string>
     <string name="formula_editor_object_number_of_backgrounds">number of backgrounds</string>
     <string name="formula_editor_object_distance_to">distance to touch position</string>
     <string name="formula_editor_compute">محاسبه</string>
@@ -1792,6 +1792,10 @@ needs read and write access to it. You can always change permissions through you
     <string name="formula_editor_sensor_second_face_size">second face size</string>
     <string name="formula_editor_sensor_second_face_x_position">second face x position</string>
     <string name="formula_editor_sensor_second_face_y_position">second face y position</string>
+    <string name="formula_editor_sensor_head_top_x">head top x</string>
+    <string name="formula_editor_sensor_head_top_y">head top y</string>
+    <string name="formula_editor_sensor_neck_x">neck x</string>
+    <string name="formula_editor_sensor_neck_y">neck y</string>
     <string name="formula_editor_sensor_nose_x">nose x</string>
     <string name="formula_editor_sensor_nose_y">nose y</string>
     <string name="formula_editor_sensor_left_eye_inner_x">left eye inner x</string>
@@ -2004,7 +2008,7 @@ needs read and write access to it. You can always change permissions through you
     <string name="hertz_symbol">㎐</string>
     <string name="no_internet_connection">No internet connection. Make sure Wi-Fi or mobile
     data is turned on.</string>
-    <string name="edit">Edit</string>
+    <string name="edit">سمون</string>
     <string name="data_value">Value</string>
     <string name="category_recently_used">Recently used</string>
     <string name="new_sprite_dialog_place_visually">Place visually</string>

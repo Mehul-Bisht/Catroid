@@ -1733,6 +1733,10 @@
     <string name="formula_editor_sensor_second_face_size">2つ目の面サイズ</string>
     <string name="formula_editor_sensor_second_face_x_position">2つ目の顔 x 位置</string>
     <string name="formula_editor_sensor_second_face_y_position">2番目の顔 y位置</string>
+    <string name="formula_editor_sensor_head_top_x">head top x</string>
+    <string name="formula_editor_sensor_head_top_y">head top y</string>
+    <string name="formula_editor_sensor_neck_x">neck x</string>
+    <string name="formula_editor_sensor_neck_y">neck y</string>
     <string name="formula_editor_sensor_nose_x">鼻x</string>
     <string name="formula_editor_sensor_nose_y">鼻Y</string>
     <string name="formula_editor_sensor_left_eye_inner_x">左目インナーX</string>

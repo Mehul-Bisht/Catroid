@@ -1781,6 +1781,10 @@ con tolleranza %        </string>
     <string name="formula_editor_sensor_second_face_size">dimensione del secondo volto</string>
     <string name="formula_editor_sensor_second_face_x_position">posizione x secondo volto</string>
     <string name="formula_editor_sensor_second_face_y_position">posizione y secondo volto</string>
+    <string name="formula_editor_sensor_head_top_x">head top x</string>
+    <string name="formula_editor_sensor_head_top_y">head top y</string>
+    <string name="formula_editor_sensor_neck_x">neck x</string>
+    <string name="formula_editor_sensor_neck_y">neck y</string>
     <string name="formula_editor_sensor_nose_x">naso x</string>
     <string name="formula_editor_sensor_nose_y">naso y</string>
     <string name="formula_editor_sensor_left_eye_inner_x">occhio sinistro interno x</string>
